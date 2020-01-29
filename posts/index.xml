@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Future eXperience</title>
-    <link>https://pages.gitlab.io/hugo/posts/</link>
+    <link>https://ardl-fx.github.io/posts/</link>
     <description>Recent content in Posts on Future eXperience</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     
-	<atom:link href="https://pages.gitlab.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ardl-fx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>https://pages.gitlab.io/hugo/posts/my-first-post/</link>
+      <link>https://ardl-fx.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://pages.gitlab.io/hugo/posts/my-first-post/</guid>
+      <guid>https://ardl-fx.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     

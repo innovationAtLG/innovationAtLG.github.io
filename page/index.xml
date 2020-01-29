@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Future eXperience</title>
-    <link>https://pages.gitlab.io/hugo/page/</link>
+    <link>https://ardl-fx.github.io/page/</link>
     <description>Recent content in Pages on Future eXperience</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     
-	<atom:link href="https://pages.gitlab.io/hugo/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ardl-fx.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://pages.gitlab.io/hugo/page/about/</link>
+      <link>https://ardl-fx.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>https://pages.gitlab.io/hugo/page/about/</guid>
+      <guid>https://ardl-fx.github.io/page/about/</guid>
       <description>Future eXperiecnces Lab is comprised of many talented individuals:
  John Smith  our history To learn more about what we do please visit our [dept. website], and it will answer all your questions.</description>
     </item>

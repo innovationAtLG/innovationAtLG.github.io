@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Future eXperience</title>
-    <link>https://pages.gitlab.io/hugo/categories/</link>
+    <link>https://ardl-fx.github.io/categories/</link>
     <description>Recent content in Categories on Future eXperience</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     
-	<atom:link href="https://pages.gitlab.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ardl-fx.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
