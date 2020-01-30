@@ -161,13 +161,13 @@ img {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
-  left: 50%;
-  width: 50px;
+  left: 100%;
+  width: 100px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
-  width: 100%;
-  border-radius: 50%;
+  width: 0%;
+  border-radius: 100%;
   margin-left: -50%;
   display: inline-block;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -176,12 +176,12 @@ img {
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
-  border-radius: 50%;
+  border-radius: 100%;
   display: block;
 }
 
 .navbar-custom.top-nav-short .avatar-container{
-  opacity: 0;
+  opacity: 1;
 }
 
 .navbar-custom.top-nav-expanded .avatar-container  {
