@@ -3,7 +3,7 @@ baseURL = "https://ardl-fx.github.io/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "FX"
+title = "Future<br>Experience<br>by LG"
 
 # css plugins
 [[params.plugins.css]]
@@ -55,12 +55,12 @@ weight = 5
 # default parameters
 [params]
 home = "Home"
-logo = "images/logo.png"
+logo = "images/FX_Logo.png"
 # theme color
 theme_color = "#41228e"
 # contact info
 phone = "+1 (408) 610-5601"
-email = "fxTeam@lge.com"
+email = "hello@fx.com"
 address = "5150 Great America Parkway Santa Clara, CA 95054"
 # meta description
 author = "FX bot"
