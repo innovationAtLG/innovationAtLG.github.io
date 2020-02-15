@@ -3,7 +3,7 @@ baseURL = "https://ardl-fx.github.io/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Future<br>Experience<br>by LG"
+title = "LG Future Experience Team"
 
 # css plugins
 [[params.plugins.css]]
@@ -31,20 +31,15 @@ URL = "plugins/shuffle/shuffle.min.js"
 
 
 # menu
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+#[[menu.main]]
+#URL = "about"
+#name = "About"
+#weight = 2
 
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 3
-
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
 
 [[menu.main]]
 URL = "contact"
@@ -60,15 +55,16 @@ logo = "images/FX_Logo.png"
 theme_color = "#41228e"
 # contact info
 phone = "+1 (408) 610-5601"
-email = "hello@fx.com"
+email = "fx@lge.com"
 address = "5150 Great America Parkway Santa Clara, CA 95054"
 # meta description
-author = "FX bot"
+author = "Future Experience Team"
+#TODO Update Description
 description = "This is meta description"
 # google analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "2020 &copy; LG ARC FX"
+copyright = "2020 &copy; LG Electronics"
 
 
 # contact
@@ -82,18 +78,22 @@ enable = true
 preloader = "" # use png, jpg, svg or gif format
 
 # social site
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
+#[[params.social]]
+#URL = "#"
+#icon = "ti-facebook"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-instagram"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-dribbble"
 
 [[params.social]]
 URL = "#"
-icon = "ti-instagram"
+icon = "ti-linkedin"
 
 [[params.social]]
 URL = "#"
-icon = "ti-dribbble"
-
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+icon = "ti-github"

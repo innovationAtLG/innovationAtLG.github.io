@@ -1,39 +1,39 @@
 # banner
 banner:
-  title : "Hi there!<br>We are LGFX<br>and we are<br>reinventing<br>innovation."
+  title : "Welcome to the Future eXpriences team at LG."
 
 # about
 about:
   enable : true
-  title : "LG FX WHO?"
+  title : "Our Vision"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # doing
 doing:
   enable : true
-  title : "Doing What?"
+  title : "Our Values"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # education
 education:
   enable : true
-  title : "Wanna Work with us?"
+  title : "Work with us"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
-  
+
   item:
-    - title : "Senior Product Manager"
+    - title : "Product Manager"
       icon : "images/icons/ProductManager_Icon.png"
       academy : "Santa Clara"
-      
-    - title : "Sr. Engineer"
+
+    - title : "HW Engineer"
       icon : "images/icons/ProductDesigner_Icon.png"
       academy : "Santa Clara"
-      
-    - title : "Sr. Cloud Engineer"
+
+    - title : "Cloud Engineer"
       icon : "images/icons/CloudEngineer_Icon.png"
       academy : "Santa Clara"
-      
-    - title : "Sr. Product Designer"
+
+    - title : "Product Designer"
       icon : "images/icons/ProductDesigner_Icon.png"
       academy : "Santa Clara"
 
