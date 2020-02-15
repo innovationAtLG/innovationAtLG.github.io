@@ -486,9 +486,10 @@ textarea.form-control {
   left: -250px
 }
 
+/*future exp text*/
 #l3 {
   top: 200px;
-  left: 40%
+  left: 8.75%
 }
 
 #l4 {
@@ -777,15 +778,17 @@ blockquote {
   position: absolute;
   left: 0;
   top: 0;
-  height: 100%
+  width: 100%;
+  height: auto
 }
 
 .page-title-alt .bg-shape-2 {
   position: absolute;
-  left: 70px;
+  left: 8.75%;
   top: 100px
 }
 
+/*future exp text*/
 .page-title-alt .bg-shape-3 {
   position: absolute;
   left: 30%;
@@ -833,9 +836,10 @@ blockquote {
   top: -10px
 }
 
+/*future exp text*/
 .page-title .bg-shape-3 {
   position: absolute;
-  left: 10%;
+  left: 8.75%;
   top: 100px
 }
 
