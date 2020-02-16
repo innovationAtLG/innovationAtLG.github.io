@@ -54,9 +54,10 @@ logo = "images/FX_Logo.png"
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+1 (408) 610-5601"
-email = "fx@lge.com"
+#phone = "+1 (408) 610-5601"
+#email = "fx@lge.com"
 address = "5150 Great America Parkway Santa Clara, CA 95054"
+company = "LG Electronics"
 # meta description
 author = "Future Experience Team"
 #TODO Update Description
@@ -64,7 +65,7 @@ description = "This is meta description"
 # google analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "2020 &copy; LG Electronics"
+copyright = "2020 &copy;"
 
 
 # contact
