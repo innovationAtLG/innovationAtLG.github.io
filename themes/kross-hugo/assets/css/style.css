@@ -3,7 +3,7 @@
 PROJECT: Project Name
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
-@import "https://fonts.googleapis.com/css?family=Montserrat&display=swap";
+@import "https://fonts.googleapis.com/css?family=Montserrat:400,600,700,900&display=swap";
 
 @font-face {
   font-family: bwnistaint-xbd;
@@ -23,7 +23,7 @@ body {
 p {
   font-weight: 400;
   color: #4c4c4c;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.8;
   font-family: 'Montserrat', sans-serif
 }
@@ -41,6 +41,7 @@ h6 {
 
 h1,
 .h1 {
+  font-weight: 900;
   font-size: 80px
 }
 
@@ -54,7 +55,8 @@ h1,
 
 h2,
 .h2 {
-  font-size: 60px
+  font-weight: 900;
+  font-size: 40px
 }
 
 @media(max-width:991px) {
