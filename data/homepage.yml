@@ -1,45 +1,45 @@
 # banner
 banner:
-  title : "Hi there!<br>We are LGFX<br>and we are<br>reinventing<br>innovation."
+  title : "Welcome to the Future eXpriences team at LG."
 
 # about
 about:
   enable : true
-  title : "LG FX WHO?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  title : "Our Vision"
+  content : "We find and build world changing products using a hypothesis driven product discovery methodology. We are a part of LG's CTO organization and work across industries and technologies leveraging the full capabilities and resources of LG Electronics. "
 
 # doing
 doing:
   enable : true
-  title : "Doing What?"
+  title : "Our Values"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-# education
-education:
-  enable : true
-  title : "Wanna Work with us?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
-  
-  item:
-    - title : "Senior Product Manager"
-      icon : "images/icons/ProductManager_Icon.png"
-      academy : "Santa Clara"
-      
-    - title : "Sr. Engineer"
-      icon : "images/icons/ProductDesigner_Icon.png"
-      academy : "Santa Clara"
-      
-    - title : "Sr. Cloud Engineer"
-      icon : "images/icons/CloudEngineer_Icon.png"
-      academy : "Santa Clara"
-      
-    - title : "Sr. Product Designer"
-      icon : "images/icons/ProductDesigner_Icon.png"
-      academy : "Santa Clara"
 
 # blog
 blog:
   enable : true
-  title : "What we talk about?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
+  title : "Latest Updates"
+  content : "Here are a few technologies, products and industries we're currently exploring."
   # blog post comes from "content/blog" folder
+
+# education
+education:
+  enable : true
+  title : "Work with us"
+  content : "We're looking smart, driven and nice people with an entreprenuerial drive who want to make build something amazing."
+
+  item:
+    - title : "Product Manager"
+      icon : "images/icons/ProductManager_Icon.png"
+      academy : "Santa Clara"
+
+    - title : "HW Engineer"
+      icon : "images/icons/ProductDesigner_Icon.png"
+      academy : "Santa Clara"
+
+    - title : "Cloud Engineer"
+      icon : "images/icons/CloudEngineer_Icon.png"
+      academy : "Santa Clara"
+
+    - title : "Product Designer"
+      icon : "images/icons/ProductDesigner_Icon.png"
+      academy : "Santa Clara"
