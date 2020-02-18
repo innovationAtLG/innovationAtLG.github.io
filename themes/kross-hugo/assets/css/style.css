@@ -26,6 +26,7 @@ p {
   font-size: 20px;
   line-height: 1.8;
   font-family: 'Montserrat', sans-serif
+  max-width: 832px;
 }
 
 h1,
