@@ -10,20 +10,20 @@ about:
 
 # doing
 doing:
-  enable : true
+  enable : false
   title : "Our Values"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Latest Updates"
   content : "Here are a few technologies, products and industries we're currently exploring."
   # blog post comes from "content/blog" folder
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Work with us"
   content : "We're looking smart, driven and nice people with an entreprenuerial drive who want to make build something amazing."
 
