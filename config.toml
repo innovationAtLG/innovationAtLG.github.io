@@ -66,6 +66,8 @@ description = "This is meta description"
 google_analitycs_id = "Your ID"
 # copyright
 copyright = "2020 &copy;"
+privacy = "Privacy"
+legal = "Legal"
 
 
 # contact

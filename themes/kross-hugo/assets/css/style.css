@@ -706,6 +706,10 @@ textarea.form-control {
   margin-bottom: -250px
 }
 
+a {
+  color: white;
+}
+
 .shadow-down {
   position: relative
 }
