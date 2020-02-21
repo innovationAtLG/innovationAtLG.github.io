@@ -17,3 +17,5 @@ fields:
     schema:
       format: markdown
   label: Privacy content
+pages:
+- content/privacy-draft.md
