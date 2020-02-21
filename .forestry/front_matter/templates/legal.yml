@@ -1,4 +1,19 @@
 ---
-label: Legal
+label: Privacy
 hide_body: false
-fields: []
+fields:
+- name: privacy
+  type: text
+  config:
+    required: false
+  label: Privacy
+  description: Privacy Policy
+- name: privacy_content
+  type: textarea
+  default: default
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Privacy content
