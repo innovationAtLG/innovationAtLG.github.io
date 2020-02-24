@@ -1,6 +1,6 @@
 [build]
-  publish = "public"
-  command = "hugo --gc --themes ../.."
+  publish = "/public"
+  command = "cd themes/kross-hugo/exampleSite && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.63.2"
