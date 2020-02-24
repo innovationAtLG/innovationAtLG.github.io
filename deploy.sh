@@ -11,7 +11,7 @@ hugo
 # Go To Public folder
 mv public deploy_tmp
 
-rm -rf !("deploy_tmp")
+rm -rf !\("deploy_tmp"\)
 
 mv deploy_tmp/* ./
 
@@ -26,6 +26,6 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin HEAD:master
+git push origin HEAD:master -f
 
 git reset --hard HEAD~
