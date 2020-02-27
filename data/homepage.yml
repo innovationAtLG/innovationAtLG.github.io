@@ -6,8 +6,8 @@ banner:
 about:
   enable : true
   title : "Our Vision"
-  content : "We find and build world changing products using a hypothesis driven product discovery methodology. We are a part of LG's CTO organization and work across industries and technologies leveraging the full capabilities and resources of LG Electronics. "
-
+  content : "We incubate and build new businesses that make life better. Our team takes a hypothesis-driven customer-driven approach to pursue new opportunities across industries. We are based in Silicon Valley and leverage LG’s global network of manufacturing, R&D, and sales centers."
+  
 # doing
 doing:
   enable : false
