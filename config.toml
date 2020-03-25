@@ -94,7 +94,7 @@ preloader = "" # use png, jpg, svg or gif format
 #icon = "ti-dribbble"
 
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/company/lg-electronics/"
 icon = "ti-linkedin"
 
 [[params.social]]
