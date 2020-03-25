@@ -98,5 +98,5 @@ URL = "https://www.linkedin.com/company/lg-electronics/"
 icon = "ti-linkedin"
 
 [[params.social]]
-URL = "#"
+URL = "https://github.com/innovationAtLG"
 icon = "ti-github"
