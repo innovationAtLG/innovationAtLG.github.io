@@ -16,7 +16,7 @@ doing:
 
 # blog
 blog:
-  enable : false
+  enable : true
   title : "Latest Updates"
   content : "Here are a few technologies, products and industries we're currently exploring."
   # blog post comes from "content/blog" folder

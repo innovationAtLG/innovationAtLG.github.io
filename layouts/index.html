@@ -73,7 +73,8 @@
             <h2 class="section-title">{{.Site.Data.homepage.blog.title | markdownify }}</h2>
 
           </div>
-          {{ range first 3 .Site.RegularPages }}
+          <!-- change back to 3 when we have more blogs -->
+          {{ range first 1 .Site.RegularPages }}
           {{ .Render "post" }}
           {{ end }}
         </div>
