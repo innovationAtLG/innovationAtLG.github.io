@@ -59,9 +59,9 @@ theme_color = "#41228e"
 address = "5150 Great America Parkway Santa Clara, CA 95054"
 company = "LG Electronics"
 # meta description
-author = "Future Experiences Team"
+author = "Future Experience Team"
 #TODO Update Description
-description = "This is meta description"
+description = "LG FX is an innovation center within LG Electonics focused on new business creation."
 # google analitycs
 google_analitycs_id = "Your ID"
 # copyright

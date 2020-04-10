@@ -6,13 +6,13 @@ banner:
 about:
   enable : true
   title : "Our Vision"
-  content : "We incubate and build new businesses that make life better. Our team takes a hypothesis-driven customer-driven approach to pursue new opportunities across industries. We are based in Silicon Valley and leverage LG’s global network of manufacturing, R&D, and sales centers."
-  
+  content : "We incubate and build new businesses that make life better. Our team takes a hypothesis-driven customer-centric approach to pursue new opportunities across industries. We are based in Silicon Valley and leverage LG’s global network of manufacturing, R&D, and sales centers."
+
 # doing
 doing:
   enable : true
   title : "Our Team"
-  content : "Our team is a talented and diverse group from multidisciplinary backgrounds, giving us an edge on innovation."
+  content : "We are an ambitious and diverse team of designers, engineers,researchers and product managers who tackle meaningful problems."
 
 # blog
 blog:
