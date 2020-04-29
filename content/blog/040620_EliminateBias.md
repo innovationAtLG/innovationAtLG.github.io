@@ -2,7 +2,7 @@
 title: "Tips & Tricks to Eliminate Bias from User Research Tests"
 date: 2020-04-06T12:14:34+06:00
 image: "images/blog/bPost1_Img-1.png"
-description: "This is meta description."
+description: "Tips & Tricks to Eliminate Bias from User Research Tests by Fanya Young"
 ---
 **By Fanya Young**
 

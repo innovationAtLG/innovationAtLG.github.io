@@ -100,3 +100,6 @@ icon = "ti-linkedin"
 [[params.social]]
 URL = "https://github.com/innovationAtLG"
 icon = "ti-github"
+
+[markup.goldmark.renderer] 
+unsafe= true
