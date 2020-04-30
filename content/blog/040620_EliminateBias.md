@@ -6,7 +6,8 @@ description: "Tips & Tricks to Eliminate Bias from User Research Tests by Fanya 
 ---
 **By Fanya Young**
 
-![Image-1](/images/blog/bPost1_Img-1x.png) 
+<!-- ![Image-1](/images/blog/bPost1_Img-1.png)  -->
+<img class="img-fluid w-100" src="/images/blog/bPost1_Img-1.png" alt="userResearch">
 
 The impact of User
 Experience is profound.  In the LG Innovation Lab, the Future Experience
