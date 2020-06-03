@@ -1,10 +1,10 @@
 ---
 title: "Tips & Tricks to Eliminate Bias from User Research Tests"
-date: 2020-04-06T12:14:34+06:00
-image: "images/blog/bPost1_Img-1.png"
-description: "Tips & Tricks to Eliminate Bias from User Research Tests by Fanya Young"
+date: "2020-04-06T12:14:34+06:00"
+images: ["images/blog/bPost1_Img-1.png"]
+description: "Tips & Tricks to Eliminate Bias from User Research Tests"
+author: "Fanya Young"
 ---
-**Written by Fanya Young**
 
 <!-- ![Image-1](/images/blog/bPost1_Img-1.png)  -->
 <img class="img-fluid w-100" src="/images/blog/bPost1_Img-1.png" alt="userResearch">

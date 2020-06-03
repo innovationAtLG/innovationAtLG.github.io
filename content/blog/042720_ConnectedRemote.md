@@ -1,10 +1,10 @@
 ---
 title: "3 Tips to Stay Connected with Your Now Remote Team"
 date: 2020-04-06T12:14:34+06:00
-image: "images/blog/bPost2_Img-1.png"
+images: ["images/blog/bPost2_Img-1.png"]
 description: "3 Tips to Stay Connected with Your Now Remote Team by Sandeep Chivukula"
+author: "Sandeep Chivukula"
 ---
-**Written by Sandeep Chivukula**
 
 <!-- ![Banner](/images/blog/bPost2_Img-1.png) -->
 <img class="img-fluid w-100" src="/images/blog/bPost2_Img-1.png" alt="banner">
