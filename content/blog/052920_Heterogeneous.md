@@ -1,10 +1,10 @@
 ---
 title: "Massively Scaling Heterogeneous Sensors For IOT Projects On The Cheap"
 date: 2020-05-29T12:14:34+06:00
-image: "images/blog/bPost3_Img-1.png"
-description: "Tips & Tricks to Eliminate Bias from User Research Tests by Fanya Young"
+images: ["images/blog/bPost3_Img-1.png"]
+description: ""
+author: "Shantanu Patel, FX Engineering"
 ---
-**Written by Shantanu Patel**
 
 Recently, my team at LG's Future Experiences kicked off a new product that required integrating 100s of sensors. To add to the complexity, there were different types of sensors. Each has its own data type, frequency, and communication protocol. I needed to build a massively scalable sensor fusion platform. My critical goals for the system were: 1) Make a unified way to collect and then process data at the edge. 2) Present a single point to the analytics and business layer of the app. Sometimes in an innovation lab, you have dive into uncharted waters, so off I went.
 ### Don't Hire A Semi-Truck To Move A Brick
