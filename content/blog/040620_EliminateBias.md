@@ -2,6 +2,7 @@
 title: "Tips & Tricks to Eliminate Bias from User Research Tests"
 date: "2020-04-06T12:14:34+06:00"
 images: ["images/blog/bPost1_Img-1.png"]
+image: "images/blog/bPost1_Img-1.png"
 description: "Tips & Tricks to Eliminate Bias from User Research Tests"
 author: "Fanya Young"
 ---
