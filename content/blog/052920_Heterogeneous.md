@@ -3,7 +3,7 @@ title: "Massively Scaling Heterogeneous Sensors For IOT Projects On The Cheap"
 date: 2020-05-29T12:14:34+06:00
 images: ["images/blog/bPost3_Img-1.png"]
 image: "images/blog/bPost3_Img-1.png"
-description: ""
+description: "Don't hire truck a semi-truck to move a brick. An easy and quick way to connect heterogeneous sensors for building a sensor-fusion pipeline. "
 author: "Shantanu Patel, FX Engineering"
 ---
 
