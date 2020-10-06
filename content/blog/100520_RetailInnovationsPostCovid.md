@@ -43,4 +43,4 @@ Customers will expect this level of personalization and expect retailers to stri
 
 Indeed Retail may never be the same after COVID. Customers will demand from retailers, and technologies from companies like LG will enable retailers to meet and exceed the customer expectations.
 
-If you're in retail and want to learn about our work in the sector - we look forward to hearing from you at futureexperience@lge.com
+If you're in retail and want to learn about our work in the sector - we look forward to hearing from you.
