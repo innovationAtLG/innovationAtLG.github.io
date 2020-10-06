@@ -73,7 +73,7 @@ legal = "Legal"
 # contact
 [params.contact]
 enable = true
-form_action = "#" # contact form works with : https://formspree.io
+form_action = "https://formspree.io/f/xgepoogo" # contact form works with : https://formspree.io
 
 # preloader
 [params.preloader]
