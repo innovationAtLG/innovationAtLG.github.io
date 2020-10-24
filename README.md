@@ -4,7 +4,8 @@
 
 To post a new blog post, please follow the steps below:
 
-1. In git, checkout **staging/all** branch.
+1. In git, checkout **source** branch.
+2. Create a new branch with the name **blog/<your_name>**
 2. In the **content/blog** folder, add the markdown version of your blogpost.
     * Please follow the naming convention: **Date_Title.md**
     * Be sure to include all the metadata, as done in the previous posts:
@@ -21,7 +22,7 @@ To post a new blog post, please follow the steps below:
 6. Review updates on **localhost:1313**
 7. If everything is good to go: add the changes to git.
 8. Commit changes on git with a message about adding your blog.
-9. Push changes to the **staging/all** branch.
+9. Push changes to github on **your branch.**
 10. Create a pull request for **source** branch.
 11. Notify an admin to that your pull request is ready.
 
@@ -32,3 +33,10 @@ To post a new blog post, please follow the steps below:
 3. Commit changes to **source** branch.
 4. Run **./deploy.sh "commit msg."**
 5. Master branch will update if successful, and changes will be live after some time on our [website](https://innovationatlg.github.io/).
+
+**Blog Development**
+1. Checkout **Source**
+2. Branch to **feature/<feature_name>** 
+3. Test Locally
+4. Pull request to **source**
+5. Notify Reviewer
