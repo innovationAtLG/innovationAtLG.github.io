@@ -1,8 +1,8 @@
 ---
 title: "The Two Critical Risks That Will Kill Your Startup or Innovation"
 date: "2020-11-02T12:14:34+06:00"
-images: ["/images/blog/bPost5_Process.jpg"]
-image: "/images/blog/bPost5_Risk.jpg"
+images: ["/images/blog/bPost5_Img-4.jpg"]
+image: "/images/blog/bPost5_Img-1.jpg"
 description: "Risk breaks down into many categories. The two fundamental ones that all entrepreneurs need to consider are  Production Risk and Value Risk, sometimes called Technical Risk and Business Risk."
 author: "Sandeep Chivukula"
 ---
