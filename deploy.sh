@@ -16,7 +16,7 @@ rm -rf !\("deploy_tmp"\)
 mv deploy_tmp/* ./
 
 # Add changes to git.
-git add .
+git add --all
 
 # Commit changes.
 msg="rebuilding site $(date)"
