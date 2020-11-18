@@ -1,0 +1,45 @@
+# banner
+banner:
+  title : "Welcome<br>to the Future<br>eXperiences<br>team at LG."
+
+# about
+about:
+  enable : true
+  title : "Our Vision"
+  content : "We incubate and build new businesses that make life better. Our team takes a hypothesis-driven customer-centric approach to pursue new opportunities across industries. We are based in Silicon Valley and leverage LG’s global network of manufacturing, R&D, and sales centers."
+
+# doing
+doing:
+  enable : true
+  title : "Our Team"
+  content : "We are an ambitious and diverse team of designers, engineers, researchers and product managers who tackle meaningful problems."
+
+# blog
+blog:
+  enable : true
+  title : "Latest Updates"
+  content : "Here are a few technologies, products and industries we're currently exploring."
+  # blog post comes from "content/blog" folder
+
+# education
+education:
+  enable : false
+  title : "Work with us"
+  content : "We're looking smart, driven and nice people with an entreprenuerial drive who want to make build something amazing."
+
+  item:
+    - title : "Product Manager"
+      icon : "images/icons/ProductManager_Icon.png"
+      academy : "Santa Clara"
+
+    - title : "HW Engineer"
+      icon : "images/icons/ProductDesigner_Icon.png"
+      academy : "Santa Clara"
+
+    - title : "Cloud Engineer"
+      icon : "images/icons/CloudEngineer_Icon.png"
+      academy : "Santa Clara"
+
+    - title : "Product Designer"
+      icon : "images/icons/ProductDesigner_Icon.png"
+      academy : "Santa Clara"

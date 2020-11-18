@@ -1,0 +1,6 @@
+[submodule "themes/kross-hugo"]
+	path = themes/kross-hugo
+	url = https://github.com/themefisher/kross-hugo.git
+[submodule "themes/hugo-kross"]
+	path = themes/hugo-kross
+	url = https://github.com/themefisher/kross-hugo.git

@@ -1,0 +1,105 @@
+# default configuration
+baseURL = "https://innovationAtLG.github.io/"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "LG Future Experience Team"
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+# menu
+#[[menu.main]]
+#URL = "about"
+#name = "About"
+#weight = 2
+
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+
+
+# default parameters
+[params]
+home = "Home"
+logo = "images/FX_Logo.png"
+# theme color
+theme_color = "#41228e"
+# contact info
+#phone = "+1 (408) 610-5601"
+#email = "fx@lge.com"
+address = "5150 Great America Parkway Santa Clara, CA 95054"
+company = "LG Electronics"
+# meta description
+author = "Future Experience Team"
+#TODO Update Description
+description = "LG FX is an innovation center within LG Electronics focused on new business creation."
+# google analitycs
+google_analitycs_id = "Your ID"
+# copyright
+copyright = "2020 &copy;"
+privacy = "Privacy"
+legal = "Legal"
+
+
+# contact
+[params.contact]
+enable = true
+form_action = "https://formspree.io/f/xgepoogo" # contact form works with : https://formspree.io
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# social site
+#[[params.social]]
+#URL = "#"
+#icon = "ti-facebook"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-instagram"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-dribbble"
+
+[[params.social]]
+URL = "https://www.linkedin.com/company/lg-electronics/"
+icon = "ti-linkedin"
+
+[[params.social]]
+URL = "https://github.com/innovationAtLG"
+icon = "ti-github"
+
+[markup.goldmark.renderer] 
+unsafe= true
