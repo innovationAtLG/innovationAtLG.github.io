@@ -1,6 +1,6 @@
 ## [FX Team Website](https://innovationatlg.github.io/)
 
-The FX website is our face to the world. It's a chance for us publish what we're wokring on to the world. The site is hosted on at [https://innovationatlg.github.io/](https://innovationatlg.github.io/)
+The FX website is our face to the world. It's a chance for us publish what we're working on to the world. The site is hosted on at [https://innovationatlg.github.io/](https://innovationatlg.github.io/)
 
 The site is created via static site generator called Hugo. This allows us to keep the design and the content seperated.
 
@@ -12,7 +12,7 @@ _-FX Team_
 The blog uses a submodule for theme. You need to pul this down the first time.
 
 The first time you need to clone the website in git:
-```git clone --recursive- submodules https://github.com/innovationAtLG/innovationAtLG.github.io.git** ```
+```git clone --recursive-submodules https://github.com/innovationAtLG/innovationAtLG.github.io.git** ```
 
 ## FX Bloggers
 
