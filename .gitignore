@@ -1,0 +1,6 @@
+#Hugo Generated
+public/
+resources/_gen
+
+#OSX
+.DS_Store

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on LG Future Experience Team</title>
+    <link>https://innovationAtLG.github.io/blog/</link>
+    <description>Recent content in Blog on LG Future Experience Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://innovationAtLG.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Two Critical Risks That Will Kill Your Startup or Innovation</title>
+      <link>https://innovationAtLG.github.io/blog/110220_tworisks/</link>
+      <pubDate>Mon, 02 Nov 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://innovationAtLG.github.io/blog/110220_tworisks/</guid>
+      <description>The Future Experience (FX) team at LG works on new Product Discovery.</description>
+    </item>
+    
+    <item>
+      <title>Three Retail Innovation Themes For the Post COVID World</title>
+      <link>https://innovationAtLG.github.io/blog/100520_retailinnovationspostcovid/</link>
+      <pubDate>Mon, 05 Oct 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://innovationAtLG.github.io/blog/100520_retailinnovationspostcovid/</guid>
+      <description>Our team, the Future Experiences team within LG&amp;rsquo;s CTO division is a design thinking led R&amp;amp;D team that uses hypothesis-driven product discovery to explore new industry-specific experiences that transform how people live, work, and play.</description>
+    </item>
+    
+    <item>
+      <title>Massively Scaling Heterogeneous Sensors For IOT Projects On The Cheap</title>
+      <link>https://innovationAtLG.github.io/blog/052920_heterogeneous/</link>
+      <pubDate>Fri, 29 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://innovationAtLG.github.io/blog/052920_heterogeneous/</guid>
+      <description>Recently, my team at LG&amp;rsquo;s Future Experiences kicked off a new product that required integrating 100s of sensors.</description>
+    </item>
+    
+    <item>
+      <title>3 Tips to Stay Connected with Your Now Remote Team</title>
+      <link>https://innovationAtLG.github.io/blog/042720_connectedremote/</link>
+      <pubDate>Mon, 06 Apr 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://innovationAtLG.github.io/blog/042720_connectedremote/</guid>
+      <description>Over the last three weeks, like many others, our team has also seen a radical shift from working together in our office space to a whole new world of fully remote working and all the associated challenges that come with that transition&amp;ndash;the biggest being how to maintain a sense of connection and community among the team.</description>
+    </item>
+    
+    <item>
+      <title>Tips &amp; Tricks to Eliminate Bias from User Research Tests</title>
+      <link>https://innovationAtLG.github.io/blog/040620_eliminatebias/</link>
+      <pubDate>Mon, 06 Apr 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://innovationAtLG.github.io/blog/040620_eliminatebias/</guid>
+      <description>The impact of User Experience is profound. In the LG Innovation Lab, the Future Experience team (or &amp;ldquo;FX&amp;rdquo;) is tasked with spearheading new and innovative products.</description>
+    </item>
+    
+  </channel>
+</rss>
