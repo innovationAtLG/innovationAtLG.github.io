@@ -1,18 +1,18 @@
 ## [FX Team Website](https://innovationatlg.github.io/)
 
-The FX website is our face to the world. It's a chance for us publish what we're working on to the world. The site is hosted on at [https://innovationatlg.github.io/](https://innovationatlg.github.io/)
+The FX website is our face and our chance for us to publish what we're working on to the world. The site is hosted on at [https://innovationatlg.github.io/](https://innovationatlg.github.io/)
 
 The site is created via static site generator called Hugo. This allows us to keep the design and the content seperated.
 
-We hope you add you talent to the blog and help us keep this up to date. 
+We hope you add your talent to the blog and help us keep it up to date. 
 _-FX Team_
 
 
 ## Getting started:
-The blog uses a submodule for theme. You need to pul this down the first time.
+The blog uses a submodule for theme, so you need to clone this the first time.
 
-The first time you need to clone the website in git:
-```git clone --recursive-submodules https://github.com/innovationAtLG/innovationAtLG.github.io.git** ```
+Use the command below to do the initial website clone in git:
+```git clone --recursive-submodules https://github.com/innovationAtLG/innovationAtLG.github.io.git```
 
 ## FX Bloggers
 
@@ -46,7 +46,7 @@ To post a new blog post, please follow the steps below:
 
 1. Test the Pull request on your local machine
     1. Get the Pull request locally with ` git fetch REMOTE pull/PRNUMBER/head:BRANCHNAME`  _(You need supply the items in ALL CAPS.)_
-    2. Check it out with `hugo serve` and on your localhost.
+    2. Review it with `hugo server` and on your localhost.
 1. If everything looks good - Approve and complete merge request on Github.
     1. If not notify blogger of necessary changes
 1. Commit changes to **`source`** branch.
@@ -57,6 +57,6 @@ To post a new blog post, please follow the steps below:
 
 1. Checkout `source` branch.
 2. Create a new branch to `feature/<feature_name>` and checkout your branch.
-3. Test Locally using `hugo server` command.
+3. Test locally using `hugo server` command.
 4. Create a pull request to `source` branch.
 5. Notify Reviewer/Admin.
