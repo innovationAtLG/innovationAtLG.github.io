@@ -1,4 +1,4 @@
-##[FX Team Website](https://innovationatlg.github.io/)
+## [FX Team Website](https://innovationatlg.github.io/)
 
 The FX website is our face to the world. It's a chance for us publish what we're wokring on to the world. The site is hosted on at [https://innovationatlg.github.io/](https://innovationatlg.github.io/)
 
