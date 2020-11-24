@@ -12,7 +12,7 @@ _-FX Team_
 The blog uses a submodule for theme, so you need to clone this the first time.
 
 Use the command below to do the initial website clone in git:
-```git clone --recursive-submodules https://github.com/innovationAtLG/innovationAtLG.github.io.git```
+```git clone --recurse-submodules https://github.com/innovationAtLG/innovationAtLG.github.io.git```
 
 ## FX Bloggers
 
