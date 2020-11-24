@@ -58,6 +58,7 @@ theme_color = "#41228e"
 #email = "fx@lge.com"
 address = "5150 Great America Parkway Santa Clara, CA 95054"
 company = "LG Electronics"
+companyblog = "LG Electronics USA, Inc., 111 Sylvan Ave, Englewood Cliffs, NJ 07632. All rights reserved. LG and the LG logo are registered trademarks of LG Corp. All other trademarks are the property of their respective owners."
 # meta description
 author = "Future Experience Team"
 #TODO Update Description

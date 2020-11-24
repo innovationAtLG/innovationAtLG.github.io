@@ -43,7 +43,7 @@
     </div>
   </div>
   <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">{{ .Site.Params.copyright| markdownify }}  {{.Site.Params.company | markdownify }} </p>
+    <p class="mb-0 text-light">{{ if eq .Type "blog" }}{{ .Site.Params.copyright| markdownify }}  {{.Site.Params.companyblog | markdownify }} {{else}} {{ .Site.Params.copyright| markdownify }}  {{.Site.Params.company | markdownify }} {{- end }}</p>
     <p class="mb-0 text-white"><a href="/privacy">{{ .Site.Params.privacy | markdownify }}</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="/legal">{{ .Site.Params.legal | markdownify }}</a> </p>
   </div>
 </footer>
