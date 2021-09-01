@@ -73,6 +73,16 @@
   </url>
   
   <url>
+    <loc>https://innovationAtLG.github.io/energy/privacy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://innovationAtLG.github.io/energy/terms/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://innovationAtLG.github.io/thinq/</loc>
     <priority>0</priority>
   </url>
@@ -99,6 +109,10 @@
   
   <url>
     <loc>https://innovationAtLG.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://innovationAtLG.github.io/energy/</loc>
   </url>
   
   <url>
